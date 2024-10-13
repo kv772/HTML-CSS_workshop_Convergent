@@ -1,21 +1,32 @@
 /* style.css */
 
 body {
-  background-color: #f0f0f0;
+  background-color: #b0c2d3;
   font-family: Arial, sans-serif;
-  color: #333;
+  font-size: 16px;
+  color: #c26cf4;
   text-align: center;
-  margin: 0;
+  margin: 20;
   padding: 20px;
 }
 
 h1 {
-  color: #007acc;
+  color: #a734c7;
   font-size: 36px;
-  margin-bottom: 10px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
-p {
-  font-size: 18px;
-  color: #555;
+button {
+  background-color: rgb(83, 83, 209);
+  margin-bottom: 20px;
+  color: rgb(156, 151, 214)
 }
+
+button:hover {
+  background-color: rgb(156, 151, 214);
+  margin-bottom: 20px;
+  color:  rgb(83, 83, 209);
+}
+
+
